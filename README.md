@@ -1,1 +1,1 @@
-# DebNote
+# StudyNote & DevNote
